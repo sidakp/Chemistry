@@ -1,0 +1,30 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Atomic Structure and the Periodic Table
+    chapters:
+    - file: topic1/unit-1
+      sections:
+      - file: topic1/unit-1/atoms-and-elements
+      - file: topic1/unit-1/compounds
+      - file: topic1/unit-1/mixtures
+        sections:
+        - file: topic1/unit-1/separation-techniques/filtration
+        - file: topic1/unit-1/separation-techniques/simple-distillation
+        - file: topic1/unit-1/separation-techniques/fractional-distillation
+        - file: topic1/unit-1/separation-techniques/crystallisation
+        - file: topic1/unit-1/separation-techniques/paper-chromatography
+      - file: topic1/unit-1/history-of-the-atom
+      - file: topic1/unit-1/atomic-mass-number
+      - file: topic1/unit-1/relative-atomic-mass
+      - file: topic1/unit-1/electronic-structure
+    - file: topic1/unit-2
+      sections:
+      - file: topic1/unit-2/modern-periodic-table
+  - caption: Bonds, Structure & the Properties of Matter
+    chapters:
+    - file: topic2/lesson-x
+
