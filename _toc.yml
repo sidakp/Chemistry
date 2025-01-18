@@ -24,6 +24,7 @@ parts:
     - file: topic1/unit-2
       sections:
       - file: topic1/unit-2/modern-periodic-table
+      - file: topic1/unit-2/history-periodic-table
   - caption: Bonds, Structure & the Properties of Matter
     chapters:
     - file: topic2/lesson-x
